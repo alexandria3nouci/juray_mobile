@@ -1,2 +1,2 @@
 # juray_mobile
-mobile dev projects
+mobile dev projects for juray software solutions ltd.
